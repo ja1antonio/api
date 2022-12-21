@@ -1,4 +1,5 @@
 const knex = require('../database/knex');
+const { use } = require('../database/knex');
 
 class NotesController {
   async create(request, response) {
