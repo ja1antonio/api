@@ -21,6 +21,17 @@ tivemos que criar um CRUD criando uma api propria e ligando o BACK-END com FRONT
 * Node.js
 * SQL 
 * Query Builder
+* Express
+* Rotas e Métodos HTTP
+* Metodo GET POST
+* Users Controller
+* Middlewares
+* Insomnia
+* SQL 
+* Migrations
+* SQL - QUERY BUILDER
+* MAP e Filter
+
 
 ## Tecnologia Utilizadas FRONT-END
 * HTML 
