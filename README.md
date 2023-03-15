@@ -1,4 +1,4 @@
-# Api - RocketsetNote
+# Api - MagNotes
 
 ## Sobre o Projeto
 
@@ -39,7 +39,7 @@ tivemos que criar um CRUD criando uma api propria e ligando o BACK-END com FRONT
 * JAVASCRIPT
 * React - Vite
 
-## Git Api - Back-END
+## Git Api - Front-End
 * https://github.com/ja1antonio/RocketsetNote
 
 # Autor
